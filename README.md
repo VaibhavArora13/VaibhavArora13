@@ -49,7 +49,7 @@ Download as PDF
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
 <code><img height="25" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515"></code>
 
 
 ## 
