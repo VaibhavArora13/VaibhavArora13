@@ -6,7 +6,7 @@
 
 
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
-<h3 align="center">A Passionate Data Science Enthusiast  <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" /></h3> 
+<h3 align="center">A Passionate Data Science Enthusiast </h3> 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python 
 
-- ⚡ Hobbies : I Love playing Chess & watch some mysteries series like MindHunter, Inside Man, etc, Big Foodie 😄 !! Beside's Machine Learning stuff 👩‍💻, I enjoy listening music 🎧 and traveling 🏝️🗻.
+- ⚡ Hobbies : I Love playing Chess & watch some mysteries series like MindHunter, Inside Man, etc, Big Foodie !! Beside's Machine Learning stuff, I enjoy listening music  and traveling .
 
 - 📫 How to reach me: vaibhavarora130300@gmail.com
 
