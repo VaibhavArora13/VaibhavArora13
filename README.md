@@ -17,7 +17,7 @@
 
 - :student: I'm currently pursuing Post Graduate Diploma in Data Science
 
-- 🔭 I’m a Data Science Passionate, Love to find patterns and knowledge from a data, visualization pretty cool huh!
+- 🔭 I’m a Data Science Passionate, Love to find patterns and knowledge from a data, visualization
 
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** 
 
