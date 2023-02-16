@@ -6,7 +6,7 @@
 
 
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
-<h3 align="center">A Passionate Data Science Enthusiast </h3> 
+<h3 align="center">A Passionate Data Scientist </h3> 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
