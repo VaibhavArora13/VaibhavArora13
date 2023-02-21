@@ -30,7 +30,7 @@
 ## My Resume
 Download as PDF
 
-[<img target="_blank" src="https://img.icons8.com/clouds/100/000000/resume.png">](https://drive.google.com/file/d/1ZAC2Y9IvjK7JHFlcVFR0pyOC1Gfzq3Ta/view?usp=share_link) 
+[<img target="_blank" src="https://img.icons8.com/clouds/100/000000/resume.png">](https://drive.google.com/file/d/1I-13OuEKLHlveKUe9e0iV4-AK5_gVgTG/view?usp=share_link) 
 
 
 <div align="left">
