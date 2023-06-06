@@ -15,7 +15,7 @@
 ### Hi, I'm Vaibhav <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 - 🌱 I’m currently learning **Machine Learning, Data Engineering & Deep Learning**
 
-- :student: I'm currently pursuing Post Graduate Diploma in Data Science
+- :student: I have completed Post Graduate Program in Data Science
 
 - 🔭 I’m a Data Science Passionate, Love to find patterns, visualization and knowledge from a data
 
